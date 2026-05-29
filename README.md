@@ -31,3 +31,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=pavi-24&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavi-24&show_icons=true&theme=tokyonight)
