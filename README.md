@@ -23,9 +23,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavi-24&show_icons=true&locale=en" alt="pavi-24" /></p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pavi-24&theme=tokyonight&cache_seconds=1" />
-</p>
+
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pavi-24&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a></p>
+
 ---
 ### 🔥 GitHub Contribution Streak
 
